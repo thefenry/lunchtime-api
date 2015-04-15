@@ -20,7 +20,7 @@ tracker, which will describe some feature to implement.
 
 # Setup
 
-    git clone git@github.com:g2webservices/lunchtime.git
+    git clone git@github.com:g2webservices/lunchtime-api.git
     cd lunchtime
     bundle
 
