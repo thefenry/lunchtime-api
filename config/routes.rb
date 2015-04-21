@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
 	
-	resources :restaurants, only: [:index]
+	resources :restaurants, only: [:index], :defaults => { :format => :json }
 
 end
